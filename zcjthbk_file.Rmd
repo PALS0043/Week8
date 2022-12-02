@@ -19,7 +19,7 @@ library(lavaan)
 sim1 <- rnorm_multi(n=200,
               mu=0,
               sd=1,
-              r=0.42342343,
+              r=0.4,
               empirical=T,
               varnames=c('selfesteem1', 'selfesteem2', 'selfesteem3', 'selfesteem4'))
 ```
