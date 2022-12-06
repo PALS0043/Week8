@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#I think the teaching in this course is very clear and similar to the Intermediate Stats structure from last year which I like. Maybe there should be more on examples on how to write model outputs. 
+```
+
