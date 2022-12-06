@@ -22,6 +22,8 @@ sim1 <- rnorm_multi(n = 200,
               r = 0.4,
               empirical = T,
               varnames = c('selfesteem1', 'selfesteem2', 'selfesteem3', 'selfesteem4'))
+
+#I am sorry but I don't see how I should edit this. n = 200 and r = 0.4 are already written.
 ```
 
 2. Edit this code so that it models a 1 factor latent variable 'selfesteem' comprising the 4 items of sim1
@@ -29,10 +31,19 @@ sim1 <- rnorm_multi(n = 200,
 model <- ' 
 selfesteem =~ selfesteem1 + selfesteem2 + selfesteem3 + selfesteem4
 '
-mod <- cfa(model, sim1)
+mod <- cfa(model, data = sim1)
 summary(mod)
 
+#Similarly to above, I think (to the degree of my knowledge) all work has been done. Although the results are quite strange.
 ```
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+# I genuinely loved this years course. I enjoyed the statistics modules last two years, but we often did not receive proper answers when we asked questions. But this year there were no such issues.
+#My only feedback is that I would appreciate optional readings that are more theoretical and explain how these methods are developed. It would also be useful to have readings that have contributed to establishing guidance in the practice when considering various constants/variables/elements of the analysis ex. what constitutes a good model, how many iterations are needed, sample sizes for SEM.
+#I would also appreciate covering more types of analysis i.e. beyond multiple imputation, simulation, and SEM. Although I understand that this could make the module too complicated and fast paced. But I felt like the peple who selected the module would have been up to it as this was an elective rather than a compulsory module this year. Nevertheless, the selected topics were very useful. For example, even while in high school, I was so interested in path models as they seemed so intuitive but also powerful in observational studies so it was amazing to finally learn more about them. 
+
+#Thank you so much for the amazing module!!!
+```
+
