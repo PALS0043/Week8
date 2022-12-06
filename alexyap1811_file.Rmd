@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+# i guess it's challenging but jo has provided a lot of support so that's great
+```
+
