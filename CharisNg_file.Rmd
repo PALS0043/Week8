@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#The course is very well-structured and flows nicely as the weeks build on each other! Even though the material is quite hard, the homework, lab practicals and coursework has definitely helped to improve my understanding. The course forum and drop-in sessions have been particularly useful too. I do not have any particular improvements to suggest because I struggle with the content, not how it is taught. Thank you! 
+```
+
