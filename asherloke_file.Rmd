@@ -37,3 +37,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#I honestly enjoyed the course a lot. I really hope for a stats course to be developed for year 4 for MSci Psych student
+```
+
