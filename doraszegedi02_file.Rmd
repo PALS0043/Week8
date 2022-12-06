@@ -37,3 +37,9 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+# I find the pace of the course appropriate and I feel that I can keep up with it. I also like the fact that each week we work through multiple examples (it really reinforces the concepts in my mind) and the fact that during the lecture you show us the output of the models and explain where each number comes from.
+
+# In the future I would like to find out more about what to do in 'difficult but common' situations so one day I can run these analyses by myself if I need to (e.g., when you run a CFA, how do you deal with cross-loadings, when do you ignore them). 
+```
+
