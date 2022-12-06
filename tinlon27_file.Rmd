@@ -14,8 +14,6 @@ library(lavaan)
 
 ### Instructions
 
-## I don't see any edits to respond to... 
-
 1. Edit this code so that it simulates 200 observations, with the self esteem variables all correlated at 0.4
 ```{r}
 sim1 <- rnorm_multi(n=200,
@@ -38,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#It would be great to have in-person workshops for exam and coursework skills, such as going through the coursework examples in depth 
+```
+
