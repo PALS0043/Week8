@@ -35,3 +35,9 @@ summary(mod)
 ```
 
 
+Add a chunk here and put in some constructive feedback about the course
+
+```{r}
+# I really liked the content covered in this course, especially the SEM and simulation parts. I also appreciated the slower flow of information, it really allowed me to better assimilate the course content. However, I think that it would be a good idea to do a more in-depth recap of GLMs before starting the simulation bit. (for example, we can do it instead of the multiple imputation lecture, since we did not really use that in the practicals)
+```
+

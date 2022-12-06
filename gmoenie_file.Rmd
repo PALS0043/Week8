@@ -35,3 +35,6 @@ summary(mod)
 ```
 
 
+Add a chunk here and put in some constructive feedback about the course.
+
+#Everything in the course has been very good! I am grateful for excellent communications and responses to hot questions. I would just say that it might be helpful for future students to have the answer to the pre-practical before the practical so they can check their mistakes. It would also be good to have 1-1 statistics support towards the end of the week as well as Mondays or Tuesdays.
