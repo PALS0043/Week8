@@ -36,6 +36,6 @@ summary(mod)
 Add a chunk here and put in some constructive feedback about the course
 
 ```{r}
-#I think this course has been designed very well. One thing I would change is the layout of the practicals. I believe it would help if the tasks were formatted differently to give them more structure. For example, having a coherent format for titel, paragraphs, and questions on the tasks. Sometimes it is a little bit all over the place and I personally would find it easier to follow.
+#I think this course has been designed very well. One thing I would change is the layout of the practicals. I believe it would help if the tasks were formatted differently to give them more structure. For example, having a coherent format for title, paragraphs, and questions on the tasks. Sometimes it is a little bit all over the place and I personally would find it easier to follow.
 ```
 
