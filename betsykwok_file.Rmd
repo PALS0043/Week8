@@ -37,6 +37,6 @@ summary(mod)
 
 Add a chunk here and put in some constructive feedback about the course
 ```{r}
-#it would be nice if there is perhaps a summary/cheatsheet collating the codes, output table interpretations and write-ups across the different models we learnt this year :))
+#it would be nice if there is perhaps a summary/cheatsheet collating the codes, output table interpretations and write-ups across the different models we learnt this year :)) but really appreciate all teaching team members' help overall!
 ```
 
