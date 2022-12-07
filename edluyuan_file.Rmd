@@ -36,3 +36,5 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+
+More details please
