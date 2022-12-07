@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#Maybe adding some systematic or summative review can be helpful. I found that I can understand separate ideas, but got a bit confused when trying to connect them. Maybe more clarification about what each model or analysis methods differs from each other helps with the understanding. But this may be covered in the week10 reviewing session anyways :)
+```
+
