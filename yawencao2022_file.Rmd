@@ -37,6 +37,6 @@ summary(mod)
 
 Add a chunk here and put in some constructive feedback about the course
 ```{r}
-#Jo is so nice and helpful!
+#All teaching stafffs are so nice and helpful!
 ```
 
