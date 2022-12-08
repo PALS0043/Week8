@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#I think the lecture and practical could be somehow combined. When I am having the lecture, I am sometimes confused, until I get to trial out the codes in the practical.
+```
+
