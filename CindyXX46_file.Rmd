@@ -36,3 +36,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+# Four lectures on SEM seem to be too many. I think 3 is enough so that another topic can be added, such as advanced data visualisation. But having 4 lectures on SEM did reduce some pressure on students.
+```
+
