@@ -37,3 +37,7 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+#I've really enjoyed the module! I'm glad that the module took some of the content we only touched upon briefly last year and covered it more in-depth. Although the content is harder this year, the in-person lab sessions as well as the drop-ins has helped a lot as it gives us a chance to learn by example. 
+```
+
