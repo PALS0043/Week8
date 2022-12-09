@@ -34,6 +34,10 @@ mod <- cfa(model, sim1)
 summary(mod)
 
 ```
+```{r}
+#the topics are definitely harder to digest and it took me more time to fully understand concepts this year. But I am glad there are a lot of resources that I can turn to such as drop-in sessions and lecture recordings that I can look back to figure out things that I don't understand during class. 
+```
 
 
 Add a chunk here and put in some constructive feedback about the course
+
