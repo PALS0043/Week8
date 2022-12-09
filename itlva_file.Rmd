@@ -36,3 +36,9 @@ summary(mod)
 
 
 Add a chunk here and put in some constructive feedback about the course
+```{r}
+# The leap from year 2 stats to year 3 stats is too big in my opinion. I understand this is the 1st time this module has been ran, so I hope next year's student has an easier time. Or maybe the exam for this year can be made easier (if it is not already set). 
+
+# specifically, I think the content for each week is too much. Also, the coursework wasn't well explained (as evident from the 300+ questions on the forum). I understand that some questions are repeated / can be answered if people paid attention to instructions, but it still doesn't attest to over 300 questions on the forum. I think next year's coursework can be given more specific directions and instructions.
+```
+
